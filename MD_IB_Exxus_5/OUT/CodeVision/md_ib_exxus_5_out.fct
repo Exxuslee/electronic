@@ -1,0 +1,6 @@
+main DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"md_ib_exxus_5_out.c" LINE:376
+rock DSTACK_USAGE:0 DSTACK_LEVEL:8 FILE:"md_ib_exxus_5_out.c" LINE:351
+vektor_faza DSTACK_USAGE:16 DSTACK_LEVEL:24 FILE:"md_ib_exxus_5_out.c" LINE:297
+atan2 DSTACK_USAGE:12 DSTACK_LEVEL:36 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:672
+yatan DSTACK_USAGE:4 DSTACK_LEVEL:40 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:640
+xatan DSTACK_USAGE:8 DSTACK_LEVEL:48 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:633

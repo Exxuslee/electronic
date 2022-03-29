@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"v8fin.c" LINE:736
+start DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"v8fin.c" LINE:550
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:1402
+_print DSTACK_USAGE:94 DSTACK_LEVEL:108 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:1154
+_ftoe DSTACK_USAGE:16 DSTACK_LEVEL:124 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:1098
+floor DSTACK_USAGE:4 DSTACK_LEVEL:128 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:132 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:544

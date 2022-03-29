@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"lcd.c" LINE:66
+sprintf DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"F:\cvavr2\lib\stdio.lib" LINE:1284
+_print DSTACK_USAGE:25 DSTACK_LEVEL:33 FILE:"F:\cvavr2\lib\stdio.lib" LINE:558
+_put DSTACK_USAGE:7 DSTACK_LEVEL:40 FILE:"F:\cvavr2\lib\stdio.lib" LINE:228
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:41 FILE:"F:\cvavr2\lib\stdio.lib" LINE:163

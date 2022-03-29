@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.17</VERSION>
+ <DEVICE>AT90S2313</DEVICE>
+ <WORKING_DIR>D:\Lexx\Pro\Project\UFO-Zmej\Programa</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>17</LINE></Main>
+  <OVF1><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>72</LINE></OVF1>
+  <OVF0><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>40</LINE></OVF0>
+  <cycle><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>37</LINE></cycle>
+  <ret_i><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>121</LINE></ret_i>
+  <ovf0a><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>55</LINE></ovf0a>
+  <zapr_m><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>116</LINE></zapr_m>
+  <razr_m><FILE>D:\Lexx\Pro\Project\UFO-Zmej\Programa\asd.asm</FILE><LINE>109</LINE></razr_m>
+ </LABELS>
+</ASSEMBLER_INFO>

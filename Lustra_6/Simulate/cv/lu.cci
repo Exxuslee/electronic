@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:482570AB
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\tiny13a.h"
+NODE:V LEVEL:0 LINE:3 "i -> R3,R4"
+NODE:F LEVEL:0 LINE:6 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:15 "main(void)"

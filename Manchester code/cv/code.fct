@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"code.c" LINE:11
+gets DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:295

@@ -1,0 +1,10 @@
+VERSION:1 SOURCE_TIMESTAMP:3C3C7BA9
+NODE:I LEVEL:0 LINE:24 "F:\cvavr2\inc\mega8.h"
+NODE:I LEVEL:0 LINE:30 "F:\cvavr2\inc\lcd.h"
+NODE:I LEVEL:0 LINE:31 "F:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:32 "F:\cvavr2\inc\math.h"
+NODE:I LEVEL:0 LINE:33 "F:\cvavr2\inc\spi.h"
+NODE:I LEVEL:0 LINE:34 "F:\cvavr2\inc\delay.h"
+NODE:M LEVEL:0 LINE:37 "VREF"
+NODE:M LEVEL:0 LINE:41 "NCONVST"
+NODE:V LEVEL:0 LINE:44 "asd_asd -> RAM:????"

@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:483382A2
+NODE:I LEVEL:0 LINE:1 "C:\Program Files\CodeVision\inc\tiny13a.h"
+NODE:I LEVEL:0 LINE:3 "C:\Program Files\CodeVision\inc\delay.h"
+NODE:M LEVEL:0 LINE:5 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:9 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:24 "main(void)"

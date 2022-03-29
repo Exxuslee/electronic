@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.17</VERSION>
+ <DEVICE>ATmega48</DEVICE>
+ <WORKING_DIR>G:\ATMEGA48\2faznyj</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\ATMEGA48\2faznyj\asd.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\ATMEGA48\2faznyj\asd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>G:\ATMEGA48\2faznyj\asd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>G:\ATMEGA48\2faznyj\asd.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bi0><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>24</LINE></bi0>
+  <bi1><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>25</LINE></bi1>
+  <bi2><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>26</LINE></bi2>
+  <bi3><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>27</LINE></bi3>
+  <reset><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>63</LINE></reset>
+  <int00><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>96</LINE></int00>
+  <START><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>90</LINE></START>
+  <end2><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>81</LINE></end2>
+  <FAZA_0><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>111</LINE></FAZA_0>
+  <FAZA_1><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>118</LINE></FAZA_1>
+  <FAZA_2><FILE>G:\ATMEGA48\2faznyj\asd.asm</FILE><LINE>124</LINE></FAZA_2>
+ </LABELS>
+</ASSEMBLER_INFO>

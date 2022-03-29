@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:3D1F51EC
+NODE:I LEVEL:0 LINE:23 "C:\Program Files\cvavr2\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "C:\Program Files\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "skvaz -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "period -> R3,R4"
+NODE:V LEVEL:0 LINE:29 "temp -> RAM:????"
+NODE:V LEVEL:0 LINE:30 "save -> R5,R6"
+NODE:V LEVEL:0 LINE:31 "skvaz_ee -> EEPROM:????"
+NODE:V LEVEL:0 LINE:32 "period_ee -> EEPROM:????"
+NODE:F LEVEL:0 LINE:35 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:43 "main(void)"

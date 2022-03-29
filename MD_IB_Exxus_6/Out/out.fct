@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"out.c" LINE:518
+th_cos DSTACK_USAGE:24 DSTACK_LEVEL:24 FILE:"out.c" LINE:323
+cos DSTACK_USAGE:4 DSTACK_LEVEL:28 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:588
+sin DSTACK_USAGE:9 DSTACK_LEVEL:37 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:575
+floor DSTACK_USAGE:4 DSTACK_LEVEL:41 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:478
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:45 FILE:"C:\Program Files\cvavr2\lib\math.lib" LINE:420

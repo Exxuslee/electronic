@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Exxus.c" LINE:243
+sprintf DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:1284
+_print DSTACK_USAGE:18 DSTACK_LEVEL:26 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:275
+_put DSTACK_USAGE:7 DSTACK_LEVEL:33 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:228
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:34 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:163
+timer0_ovf_isr DSTACK_USAGE:2 DSTACK_LEVEL:36 FILE:"Exxus.c" LINE:50

@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:3EB102B9
+NODE:I LEVEL:0 LINE:1 "C:\Program Files\cvavr2\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:7 "C:\Program Files\cvavr2\inc\lcd.h"
+NODE:I LEVEL:0 LINE:8 "C:\Program Files\cvavr2\inc\stdio.h"
+NODE:V LEVEL:0 LINE:11 "asd -> RAM:????"
+NODE:V LEVEL:0 LINE:12 "delta -> R2,R3"
+NODE:V LEVEL:0 LINE:12 "out -> R4,R5"
+NODE:F LEVEL:0 LINE:14 "manchester_decoder(int delta)"
+NODE:F LEVEL:0 LINE:21 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:30 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:36 "main(void)"

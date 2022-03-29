@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:3D1E3825
+NODE:I LEVEL:0 LINE:23 "C:\Program Files\cv\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "C:\Program Files\cv\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "skvaz -> RAM:????"
+NODE:F LEVEL:0 LINE:29 "main(void)"

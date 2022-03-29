@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:41158EE0
+NODE:I LEVEL:0 LINE:23 "E:\Program files\CVavr\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:24 "E:\Program files\CVavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:28 "period -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "skvaz -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "temp_f -> RAM:????"
+NODE:V LEVEL:0 LINE:28 "temp_int -> RAM:????"
+NODE:V LEVEL:0 LINE:29 "save -> R3"
+NODE:V LEVEL:0 LINE:30 "skvaz_ee -> EEPROM:????"
+NODE:V LEVEL:0 LINE:31 "period_ee -> EEPROM:????"
+NODE:F LEVEL:0 LINE:33 "main(void)"

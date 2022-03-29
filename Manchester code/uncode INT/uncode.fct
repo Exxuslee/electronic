@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"uncode.c" LINE:36
+sprintf DSTACK_USAGE:11 DSTACK_LEVEL:11 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:1402
+_print DSTACK_USAGE:16 DSTACK_LEVEL:27 FILE:"C:\Program Files\cvavr2\lib\stdio.lib" LINE:404
+ext_int1_isr DSTACK_USAGE:12 DSTACK_LEVEL:39 FILE:"uncode.c" LINE:21
+manchester_decoder DSTACK_USAGE:2 DSTACK_LEVEL:41 FILE:"uncode.c" LINE:14
